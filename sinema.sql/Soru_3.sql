@@ -1,0 +1,1 @@
+alter table filmler add film_türü nvarchar(15)
